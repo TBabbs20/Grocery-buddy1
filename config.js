@@ -1,4 +1,2 @@
-// Fill these in with your own Supabase project's values.
-// Find them in your Supabase dashboard under Project Settings > API.
-window.SUPABASE_URL = "YOUR_SUPABASE_PROJECT_URL";
-window.SUPABASE_ANON_KEY = "YOUR_SUPABASE_ANON_PUBLIC_KEY";
+window.SUPABASE_URL = "https://dcuezinkzasbzpppfjza.supabase.co";
+window.SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRjdWV6aW5remFzYnpwcHBmanphIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODM3NTU4NzEsImV4cCI6MjA5OTMzMTg3MX0.zqocVM-bcCMKsWgPjiE3vHtuN0GsRNGkyqX19UsOZIM";
